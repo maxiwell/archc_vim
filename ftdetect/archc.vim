@@ -1,2 +1,2 @@
 " ArchC filetype
-au BufRead,BufNewFile *.ac set filetype=archc
+autocmd BufEnter *.ac set filetype=archc
