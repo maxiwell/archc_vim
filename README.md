@@ -10,14 +10,15 @@ filetype plugins. Based in the standard Vim's c and cpp plugins.
 TODO
 ----
 
- - highlight ArchC's specific syntax
+ - ~~highlight ArchC's specific syntax~~
  - add ctags support (regex or parser)
  - add compiler support
+ - add makeprg support
 
 License
 -------
 
-Copyright 2011 Ivan Sichmann Freitas
+Copyright 2011,2012 Ivan Sichmann Freitas
 Based in scripts of Bram Moolenaar (c.vim filetype), and Kevin Shan (cpp.vim
 syntax)
 
