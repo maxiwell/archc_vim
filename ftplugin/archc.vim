@@ -16,6 +16,7 @@ if exists('&ofu')
 endif
 
 setlocal comments=sO:*\ -,mO:*\ \ ,exO:*/,s1:/*,mb:*,ex:*/,://
+setlocal commentstring=/*%s*/
 
 let &cpo = s:cpo_save
 unlet s:cpo_save
